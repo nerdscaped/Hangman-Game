@@ -1,5 +1,3 @@
-from ntpath import join
-from posixpath import split
 from english_words import english_words_set
 import random
 
